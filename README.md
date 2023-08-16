@@ -1,2 +1,2 @@
 # Clock
-Basic clock, just copied a youtube tutorial.
+A clock built mainly using CSS
